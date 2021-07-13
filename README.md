@@ -1,1 +1,3 @@
 # MLProject_marina_serrano
+
+Thanks to the advances in science, with an MRI it is possible to verify the existence of brain tumors and of the same type, this is essential to make an appropriate diagnosis and its consequent intervention. The aim of this project is to train prediction models and image classification so that the same machine can establish the presence or not of a tumor, and the type of brain tumor, pituitary, glioma or meningioma.
