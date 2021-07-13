@@ -1,0 +1,12 @@
+{
+    "project_name" : "Do I have a tumor? Predicting types o brain tumer with RMI images",
+    "author" : "Marina Serrano",
+    "linkedin" : "https://www.linkedin.com/in/marina-serrano-carot-237674195/",
+    "e_mail" : "marina.serranoc@gmail.com",
+    "project_title" : "Do I have a tumor?",
+    "project_description" : "This prediction proyect wants to use RMI images of brain tumors to be able to indentify the presence of a tumor and classify its kind between pituitary, meningioma and glioma",
+    "flask_port" : "6060",
+    "streamlit_port" : "8501",
+    "links" : "https://github.com/Maserrca/thebridge/tree/main/EDA",
+    "python_libraries_used" :  ["streamlit", "pandas", "numpy", "flask", "matplotlib", "plotly", "sys", "os", "json", "seaborn", "requests", "keras", "cv2", "tensorlow", "PIL", "sklearn"]
+    }
